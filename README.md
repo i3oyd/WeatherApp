@@ -1,6 +1,9 @@
 # WeatherApp
 
-This template should help get you started developing with Vue 3 in Vite.
+In this app I learned about:
+ >Tailwind modifications
+ >Creating a Modal
+ >Transition and Teleport
 
 ## Recommended IDE Setup
 
